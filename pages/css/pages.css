@@ -16,3 +16,21 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+/* CSS CONCURRENTIEANALYSE */
+
+h1 {
+    font-style: italic;
+}
+.pos {
+    color: green;
+}
+.neg {
+    color: red;
+}
+
+/* CSS SCENARIOS */
+
+ol {
+    font-weight: bold;
+}
