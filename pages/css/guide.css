@@ -133,25 +133,23 @@ margin-bottom: 20px;
 /*SOCIAL BUTTONS*/
 .fab {
     width: 70px;
-    height: 70px;
     display: flex;
     justify-content: start;
     flex-wrap: wrap;
     text-align: center;
     margin: 20px;
     border-radius: 8px;
-    
 }
 .fa-facebook-square {
     background: #cea355;
     color: #ffffff;
     margin-top: -3px;
-    size: 5x;
 }
 .fa-facebook-square:hover {
     background: #ffffff;
     color: #cea355;
     transition-duration: 1s;
+    margin-top: -3px;
 }
 .fa-instagram {
     background: #ffffff;
@@ -160,6 +158,17 @@ margin-bottom: 20px;
 .fa-instagram:hover {
     background: #cea355;
     color: #ffffff;
+    transition-duration: 1s;
+}
+.fa-facebook {
+    background: #cea355;
+    color: #ffffff;
+    margin-top: -3px;
+    size: 5x;
+}
+.fa-facebook:hover {
+    background: #ffffff;
+    color: #cea355;
     transition-duration: 1s;
 }
 
@@ -217,7 +226,7 @@ margin-bottom: 20px;
     transition-duration: 1s;
 }
 
-.button1:hover .pijltjegrijs {
+.button2:hover .pijltjegrijs {
     color: #3a3a3a;
     transition-duration: 1s;
 }
