@@ -188,7 +188,7 @@ margin-bottom: 20px;
     transition-duration: 1s;
 }
 
-.pijltje:hover {
+.button1:hover .pijltje {
     color: #cea355;
     transition-duration: 1s;
 }
@@ -217,7 +217,7 @@ margin-bottom: 20px;
     transition-duration: 1s;
 }
 
-.pijltjegrijs:hover {
+.button1:hover .pijltjegrijs {
     color: #3a3a3a;
     transition-duration: 1s;
 }
